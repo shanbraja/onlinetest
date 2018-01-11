@@ -242,7 +242,7 @@ $day_test = $date = $count_down = '';
         ?>
 
     </div>
-<?php include_once 'js.php'; ?>
+// <?php include_once 'js.php'; ?>
 </body>
 
 </html>
